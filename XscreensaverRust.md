@@ -2,7 +2,7 @@
 
 ## Working out how to get a simple window
 
-Doing some research I first found this guide to write the screensaver from scratch in C [Tutorial](https://www.diag.uniromal.it/~liberato/screensaver/). This details obtaining the window and drawing to it, the basic C code is as follows:
+Doing some research I first found this guide to write the screensaver from scratch in C [Tutorial](https://www.diag.uniroma1.it/~liberato/screensaver/). This details obtaining the window and drawing to it, the basic C code is as follows:
 
 ```C
 #include<stdlib.h>
