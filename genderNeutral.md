@@ -24,3 +24,5 @@
 ### Some extras?
 
 CS Building has suggestions of a gender neutral toilet which does not exist on the map.
+
+The new University Station has gender neutral toilets on thr first floor next to platform one.
