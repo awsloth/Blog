@@ -23,6 +23,6 @@
 
 ### Some extras?
 
-CS Building has suggestions of a gender neutral toilet which does not exist on the map.
+The CS building has 2 gender neutral toilets (from what I can tell). One on the upper-ground floor down the corridor past the mens toilets and on the left. The lower-ground toilet is in the same place, but one floor down.
 
-The new University Station has gender neutral toilets on thr first floor next to platform one.
+The new University Station has gender neutral toilets on the first floor next to platform one.
