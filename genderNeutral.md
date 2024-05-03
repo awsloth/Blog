@@ -20,6 +20,7 @@
 12. Physics West* - Not been to these toilets either and not familiar with the building
 13. Aston Webb B* - Could not find these?
 14. Aston Webb Great Hall - Could not find these either
+15. JG Smith - Ground floor opposite reception
 
 ### Some extras?
 
